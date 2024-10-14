@@ -1,0 +1,5 @@
+
+press left shift and right mouse button then open shell and write: 
+
+
+.setup.exe configure .configuration-Office2021Enterprise.xml
